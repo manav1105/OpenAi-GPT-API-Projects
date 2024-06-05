@@ -14,7 +14,7 @@ def create_prompt(title):
     prompt = """Manav's Website
  
  Biography
- I am a Python instructor teaching people machine learning!
+ I am a Python student machine learning!
 
 
  Blog
