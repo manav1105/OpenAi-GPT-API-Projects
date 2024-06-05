@@ -14,15 +14,15 @@ def create_prompt(title):
     prompt = """Manav's Website
  
  Biography
- I am a Python student machine learning!
+ I am a AI student learning about the power of LLM!
 
 
  Blog
 
- Jan 31, 2023
- Title: Why AI will never replace the radiologist
- tags: tech, machine-learning, radiology
- Summary:  I talk about the cons of machine learning in radiology. I explain why I think that AI will never replace the radiologist.
+ june 05, 2024
+ Title: Power of LLM in Drug discovery and Healthcare
+ tags: tech, LLM, Drug discover, 
+ Summary:  I talk about LLMs and How Healthcare and Biotech industry can benefit from LLMs. I explain why I think that LLMs are game changer in Biotech.
  Full text:""".format(title)
     return prompt
 
