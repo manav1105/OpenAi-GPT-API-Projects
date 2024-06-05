@@ -11,7 +11,7 @@ def system_prompt():
 
 
 def create_prompt(title):
-    prompt = """Jose's Website
+    prompt = """Manav's Website
  
  Biography
  I am a Python instructor teaching people machine learning!

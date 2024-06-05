@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup as Soup
 from git import Repo
 
 
-def create_new_blog(path_to_content, title, content, cover_image=Path("../PT Centered Purple.png")):
+def create_new_blog(path_to_content, title, content, cover_image=Path("../Logo.png")):
     
     cover_image = Path(cover_image)
     
